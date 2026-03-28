@@ -1,6 +1,3 @@
-Here’s a polished **README.md** draft you can drop straight into your GitHub repository. It integrates your original roadmap with the **Fase 3 GIS aplicado a Python** requirements:
-
-```markdown
 # Terrain Analysis and Geospatial Modeling of the Cofre de Perote Volcanic Complex
 
 ## 📌 Overview
@@ -120,7 +117,3 @@ By completing this project, you will demonstrate the ability to:
 ```
 
 ---
-
-This README is structured to look professional on GitHub, with clear sections, roadmap, deliverables, and learning outcomes.  
-
-👉 Do you want me to also draft a **sample Jupyter Notebook outline** (with code cells for each step) so you can bootstrap the project faster?
