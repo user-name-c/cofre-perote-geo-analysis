@@ -1,0 +1,31 @@
+# --- Datos Geoespaciales ---
+# Ignorar archivos raster pesados
+*.tif
+*.tiff
+*.vrt
+*.asc
+*.dem
+
+# Ignorar archivos de datos crudos y procesados
+data/
+outputs/
+
+# Excepto si quieres subir archivos vectoriales muy pequeños (opcional)
+# !data/*.geojson
+
+# --- Entorno de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+env/
+.env
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Archivos de Sistema ---
+.DS_Store
+Thumbs.db
