@@ -11,7 +11,7 @@ data/
 outputs/
 
 # Excepto si quieres subir archivos vectoriales muy pequeños (opcional)
-# !data/*.geojson
+!data/output/images/
 
 # --- Entorno de Python ---
 __pycache__/
